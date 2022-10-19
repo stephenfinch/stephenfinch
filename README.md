@@ -1,5 +1,5 @@
 ### Hi there 👋
-### https://www.buymeacoffee.com/stephenfinch
+### [Support my work](https://www.buymeacoffee.com/stephenfinch)
 
 <!--
 **stephenfinch/stephenfinch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
